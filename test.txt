@@ -6,3 +6,4 @@ Test by Sara
 feature b
 
 hello from Pavel
+new amazing feature from Nicoleta

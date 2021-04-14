@@ -2,3 +2,4 @@ a b
 
 feature-a
 feature-a-1.0
+feature b
